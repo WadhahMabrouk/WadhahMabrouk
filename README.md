@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Wadhah Mabrouk</h1>
 <h3 align="center">A passionate Software Engineer developer from Tunisia</h3>
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadhahmabrouk&label=Profile%20views&color=0e75b6&style=flat" alt="wadhahmabrouk" /> </p>
 
